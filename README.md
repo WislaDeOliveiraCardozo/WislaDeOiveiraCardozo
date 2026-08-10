@@ -1,6 +1,6 @@
-# Seja bem vindo WislaDeOiveiraCardozo
+# Seja bem vindo Wisla :D
 
-Extra: (-) dentro do Repositório abre o VS Code
+
 
 ## Projetos - Dev
 
