@@ -1,8 +1,10 @@
-# Seja bem vindo Wisla :D
+# Seja bem vindo ao meu Git :D
 
 #Turma 1º ano I do colégio BENTO.
 
 ## Projetos
+
+<a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cEjYWFOybsnzmfZw3S_1wm3sQZn7pjmpir8MkKQ5z7zzjZ1do9jjMHk&s=10)" target="_blank"></a>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
