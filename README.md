@@ -14,6 +14,6 @@
 
 # 🦁 Reino Animal - Biologia Animal
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WislaDeOliveiraCardozo/Reino-Selvagem-TRABALHO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://wisladeoliveiracardozo.github.io/Reino-Selvagem-TRABALHO/)
 
 <a href="#" target="_blank"><img src="https://i.pinimg.com/1200x/fe/45/6a/fe456aa9cb3a15d0338d8bc9b13432e5.jpg" target="_blank"></a>
